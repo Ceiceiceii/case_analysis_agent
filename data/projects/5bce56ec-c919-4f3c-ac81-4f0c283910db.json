@@ -1,0 +1,27 @@
+{
+  "project_id": "5bce56ec-c919-4f3c-ac81-4f0c283910db",
+  "client_name": "test",
+  "project_type": "Operations",
+  "phase": "discovery",
+  "selected_kb_ids": [],
+  "kb_locked": true,
+  "conversation_history": [
+    {
+      "role": "user",
+      "content": "test",
+      "agent": "user"
+    }
+  ],
+  "discovery_answers": {},
+  "discovery_questions": [],
+  "report_1": null,
+  "report_2": null,
+  "report_3": null,
+  "current_report_version": 0,
+  "source_citations": [],
+  "kb_enrichment_log": [],
+  "next_node": "kb_manager",
+  "agent_message": "",
+  "error": null,
+  "pending_approval": null
+}

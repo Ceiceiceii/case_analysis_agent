@@ -1,0 +1,12 @@
+{
+  "project_id": "test_proj_001",
+  "report_num": 1,
+  "version": 1,
+  "title": "Background & Context Report",
+  "status": "draft",
+  "content": "# Background & Context Report\n\n**Client:** Acme Corp\n**Project Type:** Strategy\n\n**Date:** March 08, 2026\n\n---\n\n\n## Executive Summary\n\n*[Content to be populated by analyst based on discovery data]*\n\n\n## Client Overview\n\n*[Content to be populated by analyst based on discovery data]*\n\n\n## Industry Context\n\n*[Content to be populated by analyst based on discovery data]*\n\n\n## Current State Assessment\n\n*[Content to be populated by analyst based on discovery data]*\n\n\n## Key Challenges Identified\n\n*[Content to be populated by analyst based on discovery data]*\n\n\n## Methodology\n\n*[Content to be populated by analyst based on discovery data]*\n\n\n## Discovery Data Summary\n\n**t1_q1:** Grow market share by 20%\n\n**t1_q2:** Losing customers to competitor X\n",
+  "generated_at": "2026-03-08T20:10:26.291691",
+  "approved_at": null,
+  "kb_evidence": [],
+  "source_count": 0
+}

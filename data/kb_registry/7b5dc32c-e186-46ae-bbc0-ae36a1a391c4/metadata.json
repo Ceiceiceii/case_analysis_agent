@@ -1,0 +1,16 @@
+{
+  "kb_id": "7b5dc32c-e186-46ae-bbc0-ae36a1a391c4",
+  "name": "test",
+  "description": "test",
+  "collection_name": "kb_7b5dc32c-e186-46ae-bbc0-ae36a1a391c4",
+  "created_at": "2026-03-08T20:15:01.693453",
+  "chunk_count": 1,
+  "keywords": [],
+  "sources": [
+    {
+      "filename": "学问ORID.pdf",
+      "url": "",
+      "ingested_at": "2026-03-08T20:15:23.149767"
+    }
+  ]
+}

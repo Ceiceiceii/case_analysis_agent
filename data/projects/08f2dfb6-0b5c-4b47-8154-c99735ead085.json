@@ -1,0 +1,21 @@
+{
+  "project_id": "08f2dfb6-0b5c-4b47-8154-c99735ead085",
+  "client_name": "Acme Corp",
+  "project_type": "Strategy",
+  "phase": "intake",
+  "selected_kb_ids": [],
+  "kb_locked": true,
+  "conversation_history": [],
+  "discovery_answers": {},
+  "discovery_questions": [],
+  "report_1": null,
+  "report_2": null,
+  "report_3": null,
+  "current_report_version": 0,
+  "source_citations": [],
+  "kb_enrichment_log": [],
+  "next_node": "orchestrator",
+  "agent_message": "",
+  "error": null,
+  "pending_approval": null
+}
